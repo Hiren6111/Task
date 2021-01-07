@@ -8,6 +8,7 @@
 <body>
     <?php
     echo"This is my first web site.";
+    echo"This is for Training purpose";
     
     ?>
 </body>
